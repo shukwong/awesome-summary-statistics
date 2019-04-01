@@ -6,3 +6,4 @@ summary statistics data and links
 
 ## GWAS
 - [CNCR](https://ctg.cncr.nl/software/summary_statistics) - summary statistics from GWAS, e.g. Alzheimer’s dementia
+- [CTG](https://ctg.cncr.nl/software/summary_statistics) - summary statistics from Complex Genetics Lab at VU University, including those from UKBiobank in gwasATLAS
