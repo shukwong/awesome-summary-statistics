@@ -1,4 +1,4 @@
-# awesome-summary-statistics
+# awesome summary statistics
 summary statistics data and links
 
 ## EWAS
